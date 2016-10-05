@@ -1,0 +1,5 @@
+{application, umts_specs_ranap, [
+    {description, "ASN.1 RANAP protocol specifications"},
+    {vsn, "0.0.1"},
+    {applications, [kernel, stdlib]}
+]}.
