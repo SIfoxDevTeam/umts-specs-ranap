@@ -1,0 +1,5 @@
+{application, ss7specs_ranap, [
+    {description, "ASN.1 RANAP specs"},
+    {vsn, "0.0.1"},
+    {applications, [kernel, stdlib]}
+]}.

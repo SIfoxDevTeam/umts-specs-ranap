@@ -1,0 +1,9 @@
+*~
+erl_crash.dump
+.eunit
+*.swp
+include
+src/*.erl
+src/*.asn1db
+_build
+asngen
